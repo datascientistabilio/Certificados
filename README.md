@@ -1,2 +1,2 @@
 # Certificados
-único propósito de compartilhar os meus certificados
+Estarei compartilhando os meus certificados.
